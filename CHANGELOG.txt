@@ -1,0 +1,30 @@
+# Changelog - GeminiBot CLI
+Edition BY Soufianne Nassibi
+
+---
+
+## Version 1.0 - Avril 2025
+- Première version officielle du projet
+- Interface CLI intuitive et rapide
+- Pose de questions avec réponse IA basée sur Gemini 2.0 Flash Lite
+- Cryptage sécurisé de la clé API utilisateur (Fernet)
+- Sauvegarde automatique de l'historique des questions/réponses
+- Génération automatique d'un dossier d'historique quotidien
+- Système de compilation automatique via PyInstaller
+- Génération d'un installateur professionnel via Inno Setup
+- Installation facile et désinstallation propre
+- Documentation complète fournie (README + INSTALL)
+
+---
+
+## À venir (Roadmap prévue)
+- Amélioration de la gestion d'erreurs API
+- Option de sélection de modèles Gemini différents
+- Mode réponse courte / réponse longue
+- Version GUI évoluée parallèle (CustomTkinter)
+
+---
+
+Merci 
+ 
+**Soufianne Nassibi**

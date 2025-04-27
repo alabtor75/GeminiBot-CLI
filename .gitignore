@@ -1,0 +1,8 @@
+echo "build/
+dist/
+install/
+*.spec
+__pycache__/
+*.pyc
+history/
+*.log" > .gitignore

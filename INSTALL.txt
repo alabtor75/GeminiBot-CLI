@@ -1,0 +1,43 @@
+# Instructions d'installation - GeminiBot CLI
+
+---
+
+##  Installation
+
+1. Téléchargez l'installateur `GeminiBotInstaller.exe`.
+2. Lancez le setup et suivez les instructions à l'écran.
+3. L'application sera installée dans `C:\Program Files\GeminiBot_CLI\` par défaut.
+4. Un raccourci "GeminiBot CLI" sera créé sur votre bureau.
+
+---
+
+##  Première utilisation
+
+Lors du premier lancement :
+- Une fenêtre de saisie vous demandera votre **clé API Gemini**.
+- Vous pouvez obtenir votre clé API ici : [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
+- Votre clé sera chiffrée et stockée localement en toute sécurité.
+
+---
+
+##  Utilisation
+
+- Une fois l'application lancée :
+  - Choisissez une action dans le menu :
+    - 1 ➔ Poser une question
+    - 2 ➔ Consulter l'historique
+    - 3 ➔ Quitter
+- Profitez de l'intelligence Gemini directement depuis votre terminal !
+
+---
+
+##  Désinstallation
+
+- Utilisez simplement "Ajouter ou supprimer des programmes" sur Windows.
+- Tous les fichiers (application + historique + clé API) seront supprimés automatiquement.
+
+---
+
+Merci pour votre confiance
+
+Edition BY Soufianne Nassibi - 2025
